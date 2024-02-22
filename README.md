@@ -1,6 +1,7 @@
-# shiningworld
+# englifun
 
-A new Flutter project.
+This is the englifun application. 
+Based on the development and implementation of English learning materials for early childhood.
 
 ## Getting Started
 
